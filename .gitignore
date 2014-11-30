@@ -1,3 +1,6 @@
+koch
+.*
+
 dist
 cabal-dev
 *.o
